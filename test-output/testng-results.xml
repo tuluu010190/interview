@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="17" passed="17">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1027" started-at="2016-09-28T16:55:29Z" finished-at="2016-09-28T16:55:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1027" started-at="2016-09-28T16:55:29Z" finished-at="2016-09-28T16:55:30Z">
+      <class name="interview.numberListHelperTest">
+        <test-method status="PASS" signature="sumTest3numbers(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:49, instance:interview.numberListHelperTest@65524c0]" name="sumTest3numbers" duration-ms="16" started-at="2016-09-28T23:55:30Z" data-provider="sumFunctionTestWith3Numbers" finished-at="2016-09-28T23:55:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1.2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2.3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[-3.5]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sumTest3numbers -->
+        <test-method status="PASS" signature="sumTest3numbers(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:49, instance:interview.numberListHelperTest@65524c0]" name="sumTest3numbers" duration-ms="15" started-at="2016-09-28T23:55:30Z" data-provider="sumFunctionTestWith3Numbers" finished-at="2016-09-28T23:55:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3.33]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[4.55]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[5.1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[12.98]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sumTest3numbers -->
+        <test-method status="PASS" signature="sumTest3numbers(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:49, instance:interview.numberListHelperTest@65524c0]" name="sumTest3numbers" duration-ms="0" started-at="2016-09-28T23:55:30Z" data-provider="sumFunctionTestWith3Numbers" finished-at="2016-09-28T23:55:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2.5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[-9.8]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[4.7]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[-2.6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sumTest3numbers -->
+        <test-method status="PASS" signature="sumTest4numbers(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:50, instance:interview.numberListHelperTest@65524c0]" name="sumTest4numbers" duration-ms="0" started-at="2016-09-28T23:55:30Z" data-provider="sumFunctionTestWith4Numbers" finished-at="2016-09-28T23:55:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2.367]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3.00987]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[-6.5567]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[-2.66987]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[-3.8497]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sumTest4numbers -->
+        <test-method status="PASS" signature="sumTest4numbers(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:50, instance:interview.numberListHelperTest@65524c0]" name="sumTest4numbers" duration-ms="0" started-at="2016-09-28T23:55:30Z" data-provider="sumFunctionTestWith4Numbers" finished-at="2016-09-28T23:55:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1.23]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2.33]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[-7.02]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[3.46]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sumTest4numbers -->
+        <test-method status="PASS" signature="sumTest4numbers(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:50, instance:interview.numberListHelperTest@65524c0]" name="sumTest4numbers" duration-ms="0" started-at="2016-09-28T23:55:30Z" data-provider="sumFunctionTestWith4Numbers" finished-at="2016-09-28T23:55:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[33.87]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[-467.678]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[47.23]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[501.35]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[114.772]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sumTest4numbers -->
+        <test-method status="PASS" signature="maxTest3numbers(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:51, instance:interview.numberListHelperTest@65524c0]" name="maxTest3numbers" duration-ms="0" started-at="2016-09-28T23:55:30Z" data-provider="maxFunctionTestWith3Numbers" finished-at="2016-09-28T23:55:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[99.456]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2.98]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[-3.34]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[99.456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maxTest3numbers -->
+        <test-method status="PASS" signature="maxTest3numbers(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:51, instance:interview.numberListHelperTest@65524c0]" name="maxTest3numbers" duration-ms="0" started-at="2016-09-28T23:55:30Z" data-provider="maxFunctionTestWith3Numbers" finished-at="2016-09-28T23:55:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[209.987]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[378.123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[165.222]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[378.123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maxTest3numbers -->
+        <test-method status="PASS" signature="maxTest3numbers(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:51, instance:interview.numberListHelperTest@65524c0]" name="maxTest3numbers" duration-ms="16" started-at="2016-09-28T23:55:30Z" data-provider="maxFunctionTestWith3Numbers" finished-at="2016-09-28T23:55:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[-55.22]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[-23.23]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[-55.22]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[-23.23]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maxTest3numbers -->
+        <test-method status="PASS" signature="maxTest3numbers(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:51, instance:interview.numberListHelperTest@65524c0]" name="maxTest3numbers" duration-ms="0" started-at="2016-09-28T23:55:30Z" data-provider="maxFunctionTestWith3Numbers" finished-at="2016-09-28T23:55:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[111.003]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[222.003]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[333.003]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[333.003]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maxTest3numbers -->
+        <test-method status="PASS" signature="maxTest3numbers(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:51, instance:interview.numberListHelperTest@65524c0]" name="maxTest3numbers" duration-ms="0" started-at="2016-09-28T23:55:30Z" data-provider="maxFunctionTestWith3Numbers" finished-at="2016-09-28T23:55:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[-478.345]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[-267.246]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[-111.135]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[-111.135]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maxTest3numbers -->
+        <test-method status="PASS" signature="maxTest4numbers(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:52, instance:interview.numberListHelperTest@65524c0]" name="maxTest4numbers" duration-ms="0" started-at="2016-09-28T23:55:30Z" data-provider="maxFunctionTestWith4Numbers" finished-at="2016-09-28T23:55:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[68.444]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[47.123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[-6.037]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[3.3456]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[68.444]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maxTest4numbers -->
+        <test-method status="PASS" signature="maxTest4numbers(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:52, instance:interview.numberListHelperTest@65524c0]" name="maxTest4numbers" duration-ms="16" started-at="2016-09-28T23:55:30Z" data-provider="maxFunctionTestWith4Numbers" finished-at="2016-09-28T23:55:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2224.34]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9678.23]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[-687.56]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[-209.12]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[9678.23]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maxTest4numbers -->
+        <test-method status="PASS" signature="maxTest4numbers(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:52, instance:interview.numberListHelperTest@65524c0]" name="maxTest4numbers" duration-ms="0" started-at="2016-09-28T23:55:30Z" data-provider="maxFunctionTestWith4Numbers" finished-at="2016-09-28T23:55:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[344.003]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[-4.003]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[855.003]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[556.003]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[855.003]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maxTest4numbers -->
+        <test-method status="PASS" signature="maxTest4numbers(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:52, instance:interview.numberListHelperTest@65524c0]" name="maxTest4numbers" duration-ms="16" started-at="2016-09-28T23:55:30Z" data-provider="maxFunctionTestWith4Numbers" finished-at="2016-09-28T23:55:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[-445.098]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[-434.125]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[55.12]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[122.004]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[122.004]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maxTest4numbers -->
+        <test-method status="PASS" signature="maxTest4numbers(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:52, instance:interview.numberListHelperTest@65524c0]" name="maxTest4numbers" duration-ms="0" started-at="2016-09-28T23:55:30Z" data-provider="maxFunctionTestWith4Numbers" finished-at="2016-09-28T23:55:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[-423.456]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[-456.123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[-1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[-55.56]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[-1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maxTest4numbers -->
+        <test-method status="PASS" signature="maxTest4numbers(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:52, instance:interview.numberListHelperTest@65524c0]" name="maxTest4numbers" duration-ms="16" started-at="2016-09-28T23:55:30Z" data-provider="maxFunctionTestWith4Numbers" finished-at="2016-09-28T23:55:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[-4.56]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[-4.56]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[-4.56]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maxTest4numbers -->
+      </class> <!-- interview.numberListHelperTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

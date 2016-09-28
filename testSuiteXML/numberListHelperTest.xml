@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test sum and max functions"
+	parallel="false">
+
+	<test name="Test sum and max functions"
+		preserve-order="true">
+		<classes>
+			<class name='interview.numberListHelperTest'>
+			</class>
+		</classes>
+	</test>
+</suite>
