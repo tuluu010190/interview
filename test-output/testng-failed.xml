@@ -3,7 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test verbose="2" name="Default test">
     <classes>
-      <class name="interview.numberListHelperTest"/>
+      <class name="interview.NumberListHelperTest">
+        <methods>
+          <include name="sumTest4numbers"/>
+        </methods>
+      </class> <!-- interview.NumberListHelperTest -->
     </classes>
   </test> <!-- Default test -->
 </suite> <!-- Failed suite [Default suite] -->

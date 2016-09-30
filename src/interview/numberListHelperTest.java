@@ -6,7 +6,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 import Utils.DataProviderRepository;
 
-public class numberListHelperTest {
+public class NumberListHelperTest {
 
 	/**
 	 * Test Case Name: sumTest3numbers
@@ -22,7 +22,7 @@ public class numberListHelperTest {
 		members.add(Double.parseDouble(member1));
 		members.add(Double.parseDouble(member2));
 		members.add(Double.parseDouble(member3));
-		Assert.assertEquals(Double.parseDouble(result), numberListHelper.sum(members), 0.0000001);
+		Assert.assertEquals(Double.parseDouble(result), NumberListHelper.sum(members), 0.0000001);
 	}
 	
 	/**
@@ -41,7 +41,7 @@ public class numberListHelperTest {
 		members.add(Double.parseDouble(member2));
 		members.add(Double.parseDouble(member3));
 		members.add(Double.parseDouble(member4));
-		Assert.assertEquals(Double.parseDouble(result), numberListHelper.sum(members), 0.0000001);
+		Assert.assertEquals(Double.parseDouble(result), NumberListHelper.sum(members), 0.0000001);
 	}
 	
 	/**
@@ -58,7 +58,7 @@ public class numberListHelperTest {
 		members.add(Double.parseDouble(member1));
 		members.add(Double.parseDouble(member2));
 		members.add(Double.parseDouble(member3));
-		Assert.assertEquals(Double.parseDouble(result), numberListHelper.max(members), 0.0000001);
+		Assert.assertEquals(Double.parseDouble(result), NumberListHelper.max(members), 0.0000001);
 	}
 	
 	/**
@@ -77,6 +77,6 @@ public class numberListHelperTest {
 		members.add(Double.parseDouble(member2));
 		members.add(Double.parseDouble(member3));
 		members.add(Double.parseDouble(member4));
-		Assert.assertEquals(Double.parseDouble(result), numberListHelper.max(members), 0.0000001);
+		Assert.assertEquals(Double.parseDouble(result), NumberListHelper.max(members), 0.0000001);
 	}
 }

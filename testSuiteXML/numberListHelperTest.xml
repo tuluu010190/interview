@@ -6,7 +6,7 @@
 	<test name="Test sum and max functions"
 		preserve-order="true">
 		<classes>
-			<class name='interview.numberListHelperTest'>
+			<class name='interview.NumberListHelperTest'>
 			</class>
 		</classes>
 	</test>

@@ -2,7 +2,7 @@ package interview;
 
 import java.util.List;
 
-public class numberListHelper {
+public class NumberListHelper {
 
 	public static double sum(List<Double> items){
 		double sum = 0d;
